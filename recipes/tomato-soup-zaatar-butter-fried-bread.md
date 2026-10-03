@@ -4,19 +4,19 @@
 
 ### Soup
 
-- Campbell’s canned tomato soup
+- 1 can Campbell’s tomato soup
 - Water as directed on the can, adjusted to taste
 - Salt and pepper, to taste
 - Za’atar, to taste
 
 ### Bread
 
-Suggested starting batch; these flour and water amounts were suggested, not confirmed as the amounts actually used:
+First-try estimates: the suggested ½ cup flour and about 3 tablespoons water were roughly followed by eye, not measured precisely.
 
-- ½ cup flour
+- Roughly ½ cup flour (eyeballed)
 - Pinch of salt
-- About 3 tablespoons water, adjusted to make a soft dough
-- Butter, to taste; start small. Exact tested quantity was not recorded.
+- About 3 tablespoons water (eyeballed), adjusted to make a soft dough
+- Butter for pan-frying: an estimated 1–2 tablespoons on the first try; adjust to taste.
 
 ## Steps
 
@@ -29,7 +29,7 @@ Suggested starting batch; these flour and water amounts were suggested, not conf
 
 ## Tried and liked — October 3, 2026
 
-The za’atar from a friend added a liked herby spice to the tomato soup. Butter went into the pan first by accident, and the resulting butter-fried bread was a favorite variation. Keep that buttery fried texture next time.
+Used one can of Campbell’s tomato soup, roughly the suggested flour and water amounts by eye, and an estimated 1–2 tablespoons butter for pan-frying. The za’atar from a friend added a liked herby spice to the tomato soup. Butter went into the pan first by accident, and the resulting butter-fried bread was a favorite variation. Keep that buttery fried texture next time.
 
 No yeast, baking powder, or oven needed.
 
