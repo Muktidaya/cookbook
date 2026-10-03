@@ -6,7 +6,7 @@ A small personal cookbook. Keep one recipe per Markdown file, record what worked
 
 ```text
 recipes/
-`-- tomato-soup-zaatar-butter-fried-bread.md
+└── tomato-soup-zaatar-butter-fried-bread.md
 ```
 
 [Tomato soup with za’atar and butter-fried skillet bread](recipes/tomato-soup-zaatar-butter-fried-bread.md)
